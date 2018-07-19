@@ -6,6 +6,21 @@
                     <div class="image is-2by2">
                         <img src="https://cdn.scotch.io/2842/b7yhhuUPSGO1fEkMHD6P_sticks.jpeg">
                     </div>
+                    <div class="image is-2by2">
+                        <img src="https://cdn.scotch.io/2842/b7yhhuUPSGO1fEkMHD6P_sticks.jpeg">
+                    </div>
+                    <div class="image is-2by2">
+                        <img src="https://cdn.scotch.io/2842/b7yhhuUPSGO1fEkMHD6P_sticks.jpeg">
+                    </div>
+                    <div class="image is-2by2">
+                        <img src="https://cdn.scotch.io/2842/b7yhhuUPSGO1fEkMHD6P_sticks.jpeg">
+                    </div>
+                    <div class="image is-2by2">
+                        <img src="https://cdn.scotch.io/2842/b7yhhuUPSGO1fEkMHD6P_sticks.jpeg">
+                    </div>
+                    <div class="image is-2by2">
+                        <img src="https://cdn.scotch.io/2842/b7yhhuUPSGO1fEkMHD6P_sticks.jpeg">
+                    </div>
                 </div>
                 <div class="column is-5 is-offset-1">
                     <div class="title is-2">Bundle of Sticks</div>
